@@ -12,6 +12,13 @@ LOCATIONS = [
     '249994116/oleksandriya/',
     '235036798/cherkasy/',
     '1402986036626771/svitlovodsk/',
+    '236554331/rivne/',
+    '236264849/melitopol/',
+    '1859281614179013/zhytomyr-ukraine/',
+    '795205056/winniza-vinnytska-oblast-ukraine/',
+    'c2384025/obukhiv-ukraine/',
+    '228816751/smila/',
+    '237777949/sumi-sumska-oblast-ukraine/'
 ]
 
 INSTA_SHOP_NAME = 'prometey_shop.ua'
