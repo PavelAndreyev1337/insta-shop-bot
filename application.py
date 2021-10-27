@@ -1,7 +1,7 @@
 import os
 from instapy import InstaPy
 from services.promotion_service import PromotionService
-from consts import LOCATIONS, TAGS, INSTA_SHOP_NAME, MESSAGE
+from consts import LOCATIONS, INSTA_SHOP_NAME, MESSAGE
 
 
 class Application:
@@ -16,8 +16,7 @@ class Application:
             self.__session,
             INSTA_SHOP_NAME,
             MESSAGE,
-            LOCATIONS,
-            TAGS
+            LOCATIONS
         )
 
     def start_promotion(self):

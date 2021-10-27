@@ -15,42 +15,9 @@ LOCATIONS = [
     '1402986036626771/svitlovodsk/',
 ]
 
-TAGS = [
-    'ukraine',
-    'киев',
-    'украина',
-    'kiev',
-    'love',
-    'одесса',
-    'instagood',
-    'харьков',
-    'odessa',
-    'like4like',
-    'lviv',
-    'beautiful',
-    'kyiv',
-    'followme',
-    'fashion',
-    'girl',
-    'travel',
-    'днепр',
-    'photooftheday',
-    'summer',
-    'vsco',
-    'photo',
-    'follow',
-    'nature,'
-    'instagram',
-    'style',
-    'photography',
-    'beauty',
-    'львов',
-    'happy'
-]
-
 INSTA_SHOP_NAME = 'prometey_shop.ua'
 
-MESSAGE = u"""Магазин Мужской Обуви Prometey
+MESSAGE = u"""Магазин Мужской Обуви prometey_shop.ua
 💰Доступная цена
 🔥Доставка по Украине
 💥Срок доставки 1-3дня
