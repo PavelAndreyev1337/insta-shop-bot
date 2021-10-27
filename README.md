@@ -6,8 +6,10 @@
 * pipenv
 
 ## How to use
-1. Create virtual environment
-2. Activate virtual environment
-3. Install dependencies
-4. Run `main.py`
-5. Enjoy 😃
+1. Rename `.env.example` to `.env`
+2. Change credentials
+3. Create virtual environment
+4. Activate virtual environment
+5. Install dependencies
+6. Run `main.py`
+7. Enjoy 😃
