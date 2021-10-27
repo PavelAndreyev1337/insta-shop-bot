@@ -4,7 +4,6 @@ LOCATIONS = [
     '217645842/kirovohrad/',
     '749889026/dnipro/',
     '278491759/kremenchug-poltavska-oblast-ukraine/',
-    'locations/258618242/',
     '242892703/nova-odesa/',
     '218476081/krivoy-rog/',
     '213969292/poltava/',

@@ -16,7 +16,7 @@ class Application:
             self.__session,
             INSTA_SHOP_NAME,
             MESSAGE,
-            LOCATIONS
+            LOCATIONS,
         )
 
     def start_promotion(self):
