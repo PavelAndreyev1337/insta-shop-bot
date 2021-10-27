@@ -11,5 +11,6 @@
 3. Create virtual environment
 4. Activate virtual environment
 5. Install dependencies
-6. Run `main.py`
-7. Enjoy 😃
+6. [Windows Task Scheduler](https://instapy.org/automate-instapy)
+7. Run `main.py`
+8. Enjoy 😃
